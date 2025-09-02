@@ -1,2 +1,2 @@
 # delta-demo
-this is demo for fit and github class
+this is demo for fit and github class.
